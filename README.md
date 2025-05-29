@@ -4,3 +4,4 @@ A repository for the Major Project for the Case Studies Course in BDSA
 # Team Members Name
 1. Veera Rani
 2. Nandhakumar Balaji
+3. Isha Patel
