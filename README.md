@@ -5,3 +5,4 @@ A repository for the Major Project for the Case Studies Course in BDSA
 * Anuroopa Balachandran
 * Xiaoman Yang
 * Ce Chen
+* Bin Hu
