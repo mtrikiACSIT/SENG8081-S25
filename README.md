@@ -5,3 +5,4 @@ A repository for the Major Project for the Case Studies Course in BDSA
 1. Veera Rani
 2. Nandhakumar Balaji
 3. Isha Patel
+4. Yesha Panchal
